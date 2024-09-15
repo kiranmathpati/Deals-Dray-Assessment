@@ -12,6 +12,9 @@ Form validation and error handling
 **Technologies Used** :
 
 Mysql database for storing data
+
 Express.js: Back-end framework for building RESTful APIs
+
 React.js: Front-end library for creating user interfaces
+
 Node.js: JavaScript runtime for server-side development
