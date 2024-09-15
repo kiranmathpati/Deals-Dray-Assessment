@@ -1,6 +1,6 @@
 **Project Overview**:
 
-This project is a MERN (MongoDB, Express, React, Node.js) stack application completed as part of the selection process for a MERN Developer Internship at [Deals Dray]. The application demonstrates CRUD functionality and key features as outlined in the test instructions.
+This project is a MERN (MongoDB, Express, React, Node.js) stack application completed as part of the selection process for a MERN Developer **Internship at Deals Dray**. The application demonstrates CRUD functionality and key features as outlined in the test instructions.
 
 Features
 User Authentication 
@@ -11,7 +11,7 @@ Form validation and error handling
 
 **Technologies Used** :
 
-Mysql database for storing data
+Mysql : database for storing data
 
 Express.js: Back-end framework for building RESTful APIs
 
