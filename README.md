@@ -1,4 +1,5 @@
-Project Overview
+**Project Overview**:
+
 This project is a MERN (MongoDB, Express, React, Node.js) stack application completed as part of the selection process for a MERN Developer Internship at [Deals Dray]. The application demonstrates CRUD functionality and key features as outlined in the test instructions.
 
 Features
