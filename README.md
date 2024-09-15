@@ -9,7 +9,8 @@ Responsive front-end built using React.js
 API integration with Express.js and MongoDB
 Form validation and error handling
 
-**Technologies Used**
+**Technologies Used** :
+
 MongoDB: NoSQL database for storing data
 Express.js: Back-end framework for building RESTful APIs
 React.js: Front-end library for creating user interfaces
